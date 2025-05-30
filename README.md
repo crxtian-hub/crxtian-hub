@@ -19,7 +19,8 @@ ehm and of course i love to create websites!
 
 ### my socials
 
-<p align="left"> <a href="https://github.com/crxtian-hub" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="42" height="42" /> </picture> </a> <a href="linkedin.com/in/cristian-dagostino-ai-developer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="42" /> </picture> </a></p>
+<a href="https://www.linkedin.com/in/cristian-dagostino-ai-developer/" target="_blank" rel="noreferrer"> Linkedin ↗ </a> <br>
+<a href="https://github.com/crxtian-hub" target="_blank" rel="noreferrer"> Github ↗ </a>
 
 ### work that I love the most until now
 
