@@ -1,4 +1,4 @@
-my name is Cristian! <br>
+Cristian.<br>
 web developer — full stack — ai agent specialist 
 ================================================================================================================================
 
