@@ -4,9 +4,9 @@ indipendent web developer — ai agent specialist
 
 ### something about me
 
-based in Italy.
-contact me at [0cristian.dagostino@gmail.com](mailto:0cristian.dagostino@gmail.com?subject=Interest%20in%20your%20work&body=Hi%20Cristian,%0A%0AMy%20name%20is%20...%0Aand%20I%20am%20interested%20in%20...%0A%0AThanks!)
-open to chat about interesting projects or something else.
+* based in Italy
+* contact me at [0cristian.dagostino@gmail.com](mailto:0cristian.dagostino@gmail.com?subject=Interest%20in%20your%20work&body=Hi%20Cristian,%0A%0AMy%20name%20is%20...%0Aand%20I%20am%20interested%20in%20...%0A%0AThanks!)
+* open to chat about interesting projects or something else!
 
 ### my skills
 
