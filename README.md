@@ -17,7 +17,7 @@ indipendent web developer — ai agent specialist
 ### my socials
 
 <a href="https://www.linkedin.com/in/cristian-dagostino-ai-developer/" target="_blank" rel="noreferrer"> Linkedin ↗ </a>     <br>
-<a href="https://github.com/crxtian-hub" target="_blank" rel="noreferrer"> Github ↗ </a>    
+<a href="https://www.instagram.com/crxtianhub/" target="_blank" rel="noreferrer"> Instagram ↗ </a>    
 
 ### work that I love the most until now
 
